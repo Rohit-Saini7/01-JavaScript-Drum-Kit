@@ -4,7 +4,7 @@ Date: July 3, 2022
 
 # First challange of [JavaScript30](https://javascript30.com/)
 
-Its a drum kit webpage, where each key represent a sound. Sounds can be made as we press keys on our keyboard. To experience on your on visit [here](https://rohit-saini7.github.io/01-JavaScript-Drum-Kit/)
+Its a drum kit webpage, where each key represent a sound. Sounds can be made as we press keys on our keyboard. To experience on your own visit [here](https://rohit-saini7.github.io/01-JavaScript-Drum-Kit/)
 
 ## What is JavaScript 30
 
